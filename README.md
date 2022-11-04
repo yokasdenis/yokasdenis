@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yokasdenis
-- 👀 I’m interested in deep tech especially data collection 
+- 👀 I’m interested in deep tech especially in data collection providing for AI and Machine Learning...
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on full stack projects MERN stack
 - 📫 How to reach me via email -- yokasdenis@hotmail.com
